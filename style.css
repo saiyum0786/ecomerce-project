@@ -318,7 +318,7 @@ nav ul li a {
 /* Testimonials CSS */
 
 .testimonials {
-    max-width: 1320px;
+    max-width: 1500px;
     width: 100%;
     padding: 60px 80px;
     text-align: center;
@@ -522,6 +522,7 @@ footer {
 .social-icon-image {
     width: 32px;
 }
+
 
 
 
