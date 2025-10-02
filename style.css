@@ -404,7 +404,7 @@ footer {
     justify-content: space-between;
     padding: 20px;
     position: absolute;
-    top: -25%;
+    top: -20%;
 }
 
 .offers-title {
@@ -522,6 +522,7 @@ footer {
 .social-icon-image {
     width: 32px;
 }
+
 
 
 
